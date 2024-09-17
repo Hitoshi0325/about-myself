@@ -1,4 +1,4 @@
-export const Main = () => {
+export const Theone = () => {
   return (
     <div>
       <section className="text-gray-700" id="home">
